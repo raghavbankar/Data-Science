@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Income,City
+1,Alice,25,F,50000,New York
+2,Bob,30,Male,60000,Los Angeles
+3,Charlie,35,M,80000,Chicago
+4,David,45,Male,45000,New York
+5,Eva,29,F,NaN,San Francisco
+6,Frank,50,Male,200000,Houston
+7,Grace,27,Female,75000,Miami
+8,Hank,32,M,70000,Boston
+9,Ivy,28,Female,85000,Seattle
+10,Jack,40,Male,300000,Los Angeles
